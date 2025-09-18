@@ -293,6 +293,9 @@
 [02.  A Bioinformatics Pipeline for 16s Microbiome Data](https://github.com/asadprodhan/Microbiome_16s)
 
 
+[03.  An Introduction to Shotgun Microbiome Analysis](https://github.com/asadprodhan/Shotgun_Microbiome_Analysis/blob/main/README.md)
+
+
 <br />
 
 
@@ -302,7 +305,7 @@
 [01.  How to Build a Customised Kraken2 Database](https://github.com/asadprodhan/How_to_build_a_Customised_Kraken2_Database)
 
 
-[02.  How to Build a Customised Bracken Database](XXX)
+[02.  How to Build a Bracken Database](https://github.com/asadprodhan/How_to_Build_a_Bracken_Database)
 
 
 <br />
