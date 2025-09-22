@@ -320,6 +320,9 @@
 [02.  Publishing a paper. Professor Hans Lambers](https://github.com/asadprodhan/Publishing_a_paper_by_Prof_Lambers/blob/main/Publishing%20a%20paper%202013.pdf)
 
 
+[03.  An Introduction to Authorea](https://github.com/asadprodhan/ABOUT_AUTHOREA)
+
+
 <br />
 
 
