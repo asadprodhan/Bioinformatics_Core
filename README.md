@@ -302,7 +302,7 @@
 ## **CHAPTER 11.  BUILDING CUSTOMISED DATABASE**
 
 
-[01.  How to Build a Customised Kraken2 Database](https://github.com/asadprodhan/How_to_build_a_Customised_Kraken2_Database)
+[01.  How to Build a Customised Kraken2 Database](https://github.com/asadprodhan/How_to_Build_a_Customised_Kraken2_Database)
 
 
 [02.  How to Build a Bracken Database](https://github.com/asadprodhan/How_to_Build_a_Bracken_Database)
