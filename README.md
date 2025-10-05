@@ -326,7 +326,16 @@
 <br />
 
 
-## **CHAPTER 13.  PRESENTATIONS**
+## **CHAPTER 13.  ARTIFICIAL INTELLIGENCE**
+
+
+[01.  AI-Powered Microlearning](https://github.com/asadprodhan/AI-Powered_Microlearning/tree/main)
+
+
+<br />
+
+
+## **CHAPTER 14.  PRESENTATIONS**
 
 
 [01.  An introduction to Nanopore DNA sequencing and data analysis. Nanopore Workshop for Biosecurity, Curtin University, Perth, Australia, 27-29 June 2023.](https://github.com/asadprodhan/Invited_talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf)
