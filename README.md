@@ -31,11 +31,13 @@
 
 <br/> 
 
+
 ### Bioinformatics Core: A Hands-On Learning Journey
 
-I began developing Bioinformatics Core when I first entered the field of bioinformatics during my JSPS Postdoctoral Fellowship in Japan. To make my learning more effective and gradually build expertise, I adopted a simple yet powerful approach — I documented every single analysis I learned and applied. This approach not only accelerated repetitive tasks but also helped me consolidate knowledge systematically. Over time, these notes evolved into a comprehensive, structured, and evolving eBook that reflects my journey from learning coding fundamentals to designing targeted bioinformatics workflows, and eventually mentoring students in their own projects. Today, it serves as a practical and effective teaching resource, enabling others to learn efficiently, reproduce analyses, and apply workflows with ease.
+I entered the field of bioinformatics during my JSPS Postdoctoral Fellowship in Japan (2019–2021). To make my learning more effective and gradually build expertise, I adopted a simple yet powerful approach — I documented every analysis I learned and applied. This method not only helped me consolidate knowledge systematically but also accelerated repetitive tasks. Over time, these documents evolved into a comprehensive, structured, and evolving eBook of bioinformatics. It reflects my journey from learning coding fundamentals to engineering targeted bioinformatics workflows and eventually mentoring students in their own bioinformatics projects. Today, it serves as an inspiring, value-driven teaching resource, empowering others to learn efficiently and intuitively.
 
-The book covers key topics from Linux and R programming, data retrieval and wrangling, sequencing analysis, metagenomics and microbiome workflows, to custom database building — providing both foundational skills and actionable pipelines for beginners.
+The book covers key topics from Linux and R programming, sequencing data retrieval and wrangling, analysis, metagenomics and microbiome workflows, to custom database building — providing resources that guide learners from foundational skills to actionable pipelines.
+
 
 <br />
 
