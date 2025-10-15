@@ -35,33 +35,33 @@
 ## **CONTENT**
 
 
-[Chapter 01.  BIOINFORMATICS BASICS](#chapter-01--bioinformatics-basics)  
+[CHAPTER 01.  BIOINFORMATICS BASICS](#chapter-01--bioinformatics-basics) 
 
-[Chapter 02.  R](#chapter-02--r)  
+[CHAPTER 02.  R](#chapter-02--r)  
 
-[Chapter 03.  BASH](#chapter-03--bash) 
+[CHAPTER 03.  BASH](#chapter-03--bash)  
 
-[Chapter 04.  REMOTE COMPUTING](#chapter-04--remote-computing) 
+[CHAPTER 04.  REMOTE COMPUTING](#chapter-04--remote-computing)  
 
-[Chapter 05.  RETRIEVE PUBLIC DATA](#chapter-05--retrieve-public-data)  
+[CHAPTER 05.  RETRIEVE PUBLIC DATA](#chapter-05--retrieve-public-data)  
 
-[Chapter 06.  DNA DATA WRANGLING](#chapter-06--dna-data-wrangling)  
+[CHAPTER 06.  DNA DATA WRANGLING](#chapter-06--dna-data-wrangling)  
 
-[Chapter 07.  NANOPORE](#chapter-07--nanopore)  
+[CHAPTER 07.  NANOPORE](#chapter-07--nanopore)  
 
-[Chapter 08.  PEST AND PATHOGEN DIAGNOSIS](#chapter-08--pest-and-pathogen-diagnosis)  
+[CHAPTER 08.  PEST AND PATHOGEN DIAGNOSIS](#chapter-08--pest-and-pathogen-diagnosis)  
 
-[Chapter 09.  TRANSCRIPTOMICS](#chapter-09--transcriptomics)  
+[CHAPTER 09.  TRANSCRIPTOMICS](#chapter-09--transcriptomics)  
 
-[Chapter 10.  MICROBIOME](#chapter-10--microbiome)  
+[CHAPTER 10.  MICROBIOME](#chapter-10--microbiome)  
 
-[Chapter 11.  BUILDING CUSTOMISED DATABASE](#chapter-11--building-customised-database)  
+[CHAPTER 11.  BUILDING CUSTOMISED DATABASE](#chapter-11--building-customised-database) 
 
-[Chapter 12.  WRITING](#chapter-12--writing)  
+[CHAPTER 12.  WRITING](#chapter-12--writing)  
 
-[Chapter 13.  ARTIFICIAL INTELLIGENCE](#chapter-13--artificial-intelligence)  
+[CHAPTER 13.  ARTIFICIAL INTELLIGENCE](#chapter-13--artificial-intelligence)  
 
-[Chapter 14.  PRESENTATIONS](#chapter-14--presentations)
+[CHAPTER 14.  PRESENTATIONS](#chapter-14--presentations)
 
 
 <br />
