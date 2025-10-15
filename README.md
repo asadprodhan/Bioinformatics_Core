@@ -63,48 +63,6 @@
 [Chapter 14.  Presentations](#chapter-14--presentations)
 
 
-## **CONTENT**
-
-
-
-
-[Chapter 01.  Bioinformatics Basics](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#getting-started)
-
-
-[Chapter 02.  An Introduction to R Programming](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#r)
-
-
-[Chapter 03.  An Introduction to Bash Commands](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bash)
-
-
-[Chapter 04.  An Introduction to Remote Computing](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#remote-computing)
-
-
-[Chapter 05.  How to Retrieve Public Data](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#download-ncbi-data)
-
-
-[Chapter 06.  DNA Data Wrangling](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#download-ncbi-data)
-
-
-[Chapter 07.  Nanopore Sequencing Data Analysis](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#nanopore)
-
-
-[Chapter 08.  Bioinformatics Tools for Pest and Pathogen Diagnosis](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-analysis)
-
-
-[Chapter 09.  Bioinformatics Workflow for Transcriptome Analysis Using Illumina Sequencing](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-pipelines)
-
-
-[Chapter 10.  Bioinformatics Workflow for Microbiome Data Analysis](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-pipelines)
-
-
-[Chapter 11.  Writing Manuscripts](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#writing)
-
-
-[Chapter 12.  My Bioinformatics Presentations](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#talks)
-
-
-
 <br />
 
 
