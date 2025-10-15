@@ -34,7 +34,6 @@
 
 ## **CONTENT**
 
-## **CONTENT**
 
 [Chapter 01.  BIOINFORMATICS BASICS](#chapter-01--bioinformatics-basics)  
 
@@ -63,37 +62,6 @@
 [Chapter 13.  ARTIFICIAL INTELLIGENCE](#chapter-13--artificial-intelligence)  
 
 [Chapter 14.  PRESENTATIONS](#chapter-14--presentations)
-
-
-
-
-[Chapter 01.  Bioinformatics Basics](#chapter-01--bioinformatics-basics)
-
-[Chapter 02.  An Introduction to R Programming](#chapter-02--r)
-
-[Chapter 03.  An Introduction to Bash Commands](#chapter-03--bash)
-
-[Chapter 04.  An Introduction to Remote Computing](#chapter-04--remote-computing)
-
-[Chapter 05.  How to Retrieve Public Data](#chapter-05--retrieve-public-data)
-
-[Chapter 06.  DNA Data Wrangling](#chapter-06--dna-data-wrangling)
-
-[Chapter 07.  Nanopore](#chapter-07--nanopore)
-
-[Chapter 08.  Bioinformatics Tools for Pest and Pathogen Diagnosis](#chapter-08--pest-and-pathogen-diagnosis)
-
-[Chapter 09.  Bioinformatics Workflow for Transcriptome Analysis Using Illumina Sequencing](#chapter-09--transcriptomics)
-
-[Chapter 10.  Bioinformatics Workflow for Microbiome Data Analysis](#chapter-10--microbiome)
-
-[Chapter 11.  Building Customised Databases](#chapter-11--building-customised-database)
-
-[Chapter 12.  Writing and Publishing](#chapter-12--writing)
-
-[Chapter 13.  Artificial Intelligence](#chapter-13--artificial-intelligence)
-
-[Chapter 14.  Presentations](#chapter-14--presentations)
 
 
 <br />
